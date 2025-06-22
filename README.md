@@ -44,17 +44,6 @@ A lightweight and intuitive desktop application built using **C# Windows Forms**
 
 ![PhoneBook Screenshot](your_screenshot_path.png)
 
-> 📌 Replace `your_screenshot_path.png` with an actual image path or URL.
-
----
-
-## 🔽 Download
-
-[⬇️ Download PhoneBook App](your_download_link_here)
-
-> 📌 Replace `your_download_link_here` with the actual download URL (e.g., Dropbox, Google Drive, etc.)
-
----
 
 ## 🚀 Future Enhancements
 
@@ -76,6 +65,6 @@ This project is intended for educational and personal use.
 ## 🙌 Author
 
 Developed by **Halim Mohammad Abdul**  
-📧 Email: your_email@example.com  
-🌐 GitHub: [your-github-username](https://github.com/your-github-username)
+📧 Email: reiazbubt@gmail.com  
+🌐 GitHub: [halimmdabdul](https://github.com/halimmdabdul)
 
