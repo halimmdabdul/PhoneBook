@@ -42,7 +42,7 @@ A lightweight and intuitive desktop application built using **C# Windows Forms**
 
 ## 📷 Screenshot
 
-![PhoneBook Screenshot](your_screenshot_path.png)
+![PhoneBook Screenshot](phone-book-app.jpg)
 
 
 ## 🚀 Future Enhancements
