@@ -45,13 +45,6 @@ A lightweight and intuitive desktop application built using **C# Windows Forms**
 ![PhoneBook Screenshot](phone-book-app.jpg)
 
 
-## 🚀 Future Enhancements
-
-- 🔍 Search and filter contacts  
-- 📤 Export/import contacts (CSV, Excel)  
-- 📚 Contact grouping (e.g., Family, Friends, Work)  
-- 🌓 Light/Dark mode toggle  
-- 📱 Mobile-friendly version  
 
 ---
 
